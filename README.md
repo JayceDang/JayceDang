@@ -3,9 +3,9 @@ My name is Jayce, welcome to my n0oB-github
 
 -🔭 I’m currently working on Posts and Telecommunications Institute of Technology (PTIT)
 -🌱 I’m currently learning Information Security
-- 🤔 I’m looking for help with Algorithms, Framework, Tech, OS, ...
-- 📫 How to reach me: Facebook, Instagram, or talking with me 👯
-- ⚡ Fun fact: I'm a ARS, RMA big fan 😄
+-🤔 I’m looking for help with Algorithms, Framework, Tech, OS, ...
+-📫 How to reach me: Facebook, Instagram, or talking with me 👯
+-⚡ Fun fact: I'm a ARS, RMA big fan 😄
 
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
