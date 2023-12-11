@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img src="![Uploading image.png…]()">
 
 # 💫About Me :
 My name is Jayce, welcome to my n0oB-github
