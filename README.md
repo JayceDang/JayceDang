@@ -1,6 +1,8 @@
 # 💫About Me :
 My name is Jayce, welcome to my n0oB-github
 
+<img src = "https://github.com/JayceDang/ASCII-generator/blob/master/demo/japanese_output.jpg?raw=true">
+
 - 🔭 I’m currently working on Posts and Telecommunications Institute of Technology (PTIT)
 - 🌱 I’m currently learning Information Security
 - 🤔 I’m looking for help with Algorithms, Framework, Tech, OS, ...
